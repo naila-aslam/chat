@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "152622669930",
+    "project_id": "chatapplication-4b561",
+    "storage_bucket": "chatapplication-4b561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152622669930:android:49e8614f26f4d9196aea13",
+        "android_client_info": {
+          "package_name": "com.example.chatapplicatiom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152622669930-rnu1u2nmr071gqgamc21m66985uh7q0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbphI-rEuoAx1WRzW6MEApIoeMOdXrhoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152622669930-869umvqop8u28sr96v3numl2cbtsar57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152622669930:android:c452fff12f0f4dd36aea13",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152622669930-jvfj2c4mc50jo42s61nr6l1cp130o64t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.untitled",
+            "certificate_hash": "ba4671664e4c897bd582d4748b698b9f176715aa"
+          }
+        },
+        {
+          "client_id": "152622669930-rnu1u2nmr071gqgamc21m66985uh7q0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbphI-rEuoAx1WRzW6MEApIoeMOdXrhoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152622669930-869umvqop8u28sr96v3numl2cbtsar57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
